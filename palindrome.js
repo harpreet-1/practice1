@@ -5,7 +5,7 @@ for(i=0;i<str.length/2;i++){
             r="yes";
         }
     else{
-        r="yes"
+        r="No"
     }
  }       
  console.log(r)
